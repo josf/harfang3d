@@ -23,7 +23,7 @@ HARFANG®3D is an all-in-one 3D visualization library usable in C++, Python, Lua
 8. [Support Harfang](#section_8)
 
 <a name="section_1"></a>
-# About
+# About Harfaang3d
 
 HARFANG®3D is an easy-to-adapt, cross-platform, multi-language, powerful and optimized solution to integrate with embedded systems, into existing environments and combining features to meet the industrial standards of real-time 3D imaging.
 
